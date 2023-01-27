@@ -1,0 +1,2 @@
+spring.config.name: config-client
+remote.custom.var: From Springboot desde Github pre
