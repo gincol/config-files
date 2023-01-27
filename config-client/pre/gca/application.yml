@@ -1,5 +1,5 @@
 spring.config.name: config-client
-remote.custom.var: From Springboot desde Github entorn pre
+remote.custom.var: From Springboot desde Github pre
 
 kubeconfigs:
   - app: gca
